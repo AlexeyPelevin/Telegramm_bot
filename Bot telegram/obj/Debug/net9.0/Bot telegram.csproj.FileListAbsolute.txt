@@ -1,0 +1,28 @@
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.csproj.AssemblyReference.cache
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.AssemblyInfoInputs.cache
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.AssemblyInfo.cs
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.csproj.CoreCompileInputs.cache
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.sourcelink.json
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Bot telegram.exe
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Bot telegram.deps.json
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Bot telegram.runtimeconfig.json
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Bot telegram.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Bot telegram.pdb
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\Telegram.Bot.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot tele.9BD9CCF5.Up2Date
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\refint\Bot telegram.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.pdb
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\Bot telegram.genruntimeconfig.cache
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\obj\Debug\net9.0\ref\Bot telegram.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Downloads\D_OPS\CharpCorseSolution\Bot telegram\bin\Debug\net9.0\files\export.xlsx
